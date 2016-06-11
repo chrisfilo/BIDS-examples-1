@@ -1,25 +1,23 @@
 {
   "Info": {
-    "tomograph": "PET/CT2 (Biograph TruePoint 6 CT45544)",
-    "bodyPart": "brain",
+    "Tomograph": "PET/CT2 (Biograph TruePoint 6 CT45544)",
+    "BodyPart": "brain",
     "Pharmaceutical": {
-      "doseTimeUnits": "min",
-      "doseUnits": "mg/kg"
+      "DoseTimeUnits": "min",
+      "DoseUnits": "mg/kg"
     },
     "Tracer": {
       "MW": 247,
-      "isotope": "C11",
-      "injectionType": "bolus",
-      "name": "PHNO"
+      "Isotope": "C11",
+      "InjectionType": "bolus",
+      "Name": "PHNO"
     },
   },
   "Time": {
-    "scanDate": "19 May 2010",
-    "scanDateUnits": "dd Mmm yyyy",
     "FrameTimes": {
-      "labels": [ "frameStart", "frameEnd" ],
-      "units": [ "s", "s" ],
-      "values": [
+      "Labels": [ "frameStart", "frameEnd" ],
+      "Units": [ "s", "s" ],
+      "Values": [
         [ 0, 15 ],
         [ 15, 30 ]
       ],
@@ -27,33 +25,33 @@
   },
   "Metabolite": {
     "Data": {
-      "labels": [ "sampleStartTime", "sampleDuration", "parentFraction" ],
-      "units": [ "s", "s", "fraction" ],
-      "values": [
+      "Labels": [ "sampleStartTime", "sampleDuration", "parentFraction" ],
+      "Units": [ "s", "s", "fraction" ],
+      "Values": [
         [ 344, 14, 0.4727496 ],
         [ 613, 14, 0.2965415 ]
       ],
-      "type": "plasmaParentFraction"
+      "Type": "plasmaParentFraction"
     }
   },
   "Radiochem": {
-    "minPurity": 100,
-    "injectedRadioactivity": 123.66,
-    "injectedRadioactivityUnits": "MBq",
-    "injectedMass": 0.5,
-    "minPurityUnits": "fraction",
-    "specificRadioactivity": 61.0967,
-    "specificRadioactivityUnits": "GBq/umol",
-    "injectedMassUnits": "ug"
+    "MinPurity": 100,
+    "InjectedRadioactivity": 123.66,
+    "InjectedRadioactivityUnits": "MBq",
+    "InjectedMass": 0.5,
+    "MinPurityUnits": "fraction",
+    "SpecificRadioactivity": 61.0967,
+    "SpecificRadioactivityUnits": "GBq/umol",
+    "InjectedMassUnits": "ug"
   },
   "Plasma": {
-    "freefraction": 0.32,
+    "Freefraction": 0.32,
     "Data": {
-      "decayCorrected": true,
-      "type": "radioactivity",
-      "labels": [ "sampleStartTime", "sampleDuration", "activity" ],
-      "units": [ "s", "s", "kBq/ml" ],
-      "values": [
+      "DecayCorrected": true,
+      "Type": "radioactivity",
+      "Labels": [ "sampleStartTime", "sampleDuration", "activity" ],
+      "Units": [ "s", "s", "kBq/ml" ],
+      "Values": [
         [ 344, 14, 1.797709 ],
         [ 613, 14, 1.930659 ],
       ]
@@ -61,30 +59,30 @@
   },
   "Blood": {
     "Continuous": {
-      "tubingLengthUnits": "mm",
+      "TubingLengthUnits": "mm",
       "Data": {
-        "decayCorrected": true,
-        "decayCorrectionTime": "scan start",
-        "labels": [ "time", "activity" ],
-        "units": [ "s", "kBq/ml" ],
-        "values": [
+        "DecayCorrected": true,
+        "DecayCorrectionTime": "scan start",
+        "Labels": [ "time", "activity" ],
+        "Units": [ "s", "kBq/ml" ],
+        "Values": [
           [ 0, 0.15121 ],
           [ 1, 0.10086 ],
           [ 2, 0.10092 ],
           [ 3, 0.10098 ],
         ],
-        "type": "radioactivity"
+        "Type": "radioactivity"
       },
-      "withdrawalRateUnits": "ml/min",
+      "WithdrawalRateUnits": "ml/min",
     },
     "Discrete": {
-      "bloodDensityUnits": "g/ml",
+      "BloodDensityUnits": "g/ml",
       "Data": {
-        "decayCorrected": true,
-        "type": "radioactivity",
-        "labels": [ "sampleStartTime", "sampleDuration", "activity" ],
-        "units": [ "s", "s", "kBq/ml" ],
-        "values": [
+        "DecayCorrected": true,
+        "Type": "radioactivity",
+        "Labels": [ "sampleStartTime", "sampleDuration", "activity" ],
+        "Units": [ "s", "s", "kBq/ml" ],
+        "Values": [
           [ 344, 14, 1.527497 ],
           [ 613, 14, 1.357687 ],
           [ 905, 12, 1.214242 ],
