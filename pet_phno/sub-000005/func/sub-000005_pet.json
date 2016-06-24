@@ -2,10 +2,6 @@
   "Info": {
     "tomograph": "PET/CT2 (Biograph TruePoint 6 CT45544)",
     "bodyPart": "brain",
-    "Pharmaceutical": {
-      "doseTimeUnits": "min",
-      "doseUnits": "mg/kg"
-    },
     "Tracer": {
       "MW": 247,
       "isotope": "C11",
