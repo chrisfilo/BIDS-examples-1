@@ -1,0 +1,29 @@
+{
+    "BIDSVersion": "1.0.0-rc4",
+    "License": "PDDL",
+    "Name": "Imaging [18F]AV-1451 and [18F]AV-45 in acute and chronic traumatic brain injury",
+    "Authors": [
+        "Dara Dickstein",
+        "Mariel Y. Pullman",
+        "Corey Fernandez",
+        "Jennifer A. Short",
+        "Lale Kostakoglu",
+        "Karin Knesaurek",
+        "Laili Soleimani",
+        "Barry Jordan",
+        "Wayne Gordon",
+        "Kristen Dams-O’Connor",
+        "Bradley N. Delman",
+        "Edmund Wong",
+        "Cheuk Y. Tang",
+        "Steven T. DeKosky",
+        "James R. Stone",
+        "Robert C. Cantu",
+        "Mary Sano",
+        "Patrick R. Hof",
+        "Sam Gandy"
+    ],
+    "Acknowledgements": "The Alzheimer’s Disease Drug Foundation; NIH grants NINDS 5U01NS086625 and NICHD K01HD074651-01A; The Werber Family Foundation",
+    "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000204",
+    "Funding": ["NINDS 5U01NS086625", "NICHD K01HD074651-01A"]
+}

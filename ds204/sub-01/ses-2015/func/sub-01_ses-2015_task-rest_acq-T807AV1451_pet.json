@@ -1,0 +1,40 @@
+﻿{
+  "Info": {
+    "Tomograph": "PET/CT (Siemens)",
+    "BodyPart": "head",
+    "Pharmaceutical": {
+      "DoseTimeUnits": "min",
+      "DoseUnits": "mg/kg"
+    },
+    "Tracer": {
+      "MW": 262.3,
+      "Isotope": "F18",
+      "InjectionType": "bolus",
+      "Name": "T807AV1451"
+    }
+  },
+  "Time": {
+    "ScanDate": "13 May 2015",
+    "ScanDateUnits": "dd Mmm yyyy",
+    "ScanStart": 160053.99975,
+    "ScanStartUnits": "HHMMSS",
+    "InjectionStart": 143454.000000,
+    "InjectionStartUnits": "HHMMSS",
+    "FrameTimes": {
+      "Labels": [ "frameStart", "frameEnd" ],
+      "Units": [ "s", "s" ],
+      "Values": [
+        [ 0, 1800 ]
+      ]
+    }
+  },
+ "Radiochem": {
+    "InjectedRadioactivity": 10.2,
+    "InjectedRadioactivityUnits": "MCi",
+    "InjectedMass": 2.54,
+    "InjectedMassUnits": "ml",
+    "SpecificRadioactivity": 373688690.24554,
+    "SpecificRadioactivityUnits": "Bq",
+    "SpecificRadioactivityMeasTime": 143454.000000
+ }
+}

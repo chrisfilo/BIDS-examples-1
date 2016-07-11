@@ -1,0 +1,9 @@
+1.0.1 2016­07­06
+
+  ­ Added fields to dataset_description.json
+  - Fixed formatting issues in pet json files
+  - Added CHANGES.txt
+
+1.0.0 2016­06­28
+
+  ­ Initial release.

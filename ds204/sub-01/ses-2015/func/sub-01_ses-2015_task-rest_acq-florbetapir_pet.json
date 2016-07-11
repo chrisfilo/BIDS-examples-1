@@ -1,0 +1,40 @@
+{
+  "Info": {
+    "Tomograph": "PET/CT (Siemens)",
+    "BodyPart": "head",
+    "Pharmaceutical": {
+      "DoseTimeUnits": "min",
+      "DoseUnits": "mg/kg"
+    },
+    "Tracer": {
+      "MW": 359.4,
+      "Isotope": "F18",
+      "InjectionType": "bolus",
+      "Name": "florbetapir"
+    }
+  },
+  "Time": {
+    "ScanDate": "12 May 2015",
+    "ScanDateUnits": "dd Mmm yyyy",
+    "ScanStart": 150236.999993,
+    "ScanStartUnits": "HHMMSS",
+    "InjectionStart": 135402.000000,
+    "InjectionStartUnits": "HHMMSS",
+    "FrameTimes": {
+      "Labels": [ "frameStart", "frameEnd" ],
+      "Units": [ "s", "s" ],
+      "Values": [
+        [ 0, 1800 ]
+      ]
+    }
+  },
+ "Radiochem": {
+    "InjectedRadioactivity": 9.8,
+    "InjectedRadioactivityUnits": "MCi",
+    "InjectedMass": 2.01,
+    "InjectedMassUnits": "ml",
+    "SpecificRadioactivity": 365532249.28363,
+    "SpecificRadioactivityUnits": "Bq",
+    "SpecificRadioactivityMeasTime": 135402.000000
+    }
+}
