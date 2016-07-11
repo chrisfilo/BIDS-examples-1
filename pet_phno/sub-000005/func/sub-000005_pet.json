@@ -46,6 +46,7 @@
 		"Freefraction": 0.32,
 		"Data": {
 			"DecayCorrected": true,
+                  "DecayCorrectionTime": "scan start",
 			"Type": "radioactivity",
 			"Labels": ["sampleStartTime", "sampleDuration", "activity"],
 			"Units": ["s", "s", "kBq/ml"],
@@ -77,6 +78,7 @@
 			"BloodDensityUnits": "g/ml",
 			"Data": {
 				"DecayCorrected": true,
+                        "DecayCorrectionTime": "scan start",
 				"Type": "radioactivity",
 				"Labels": ["sampleStartTime", "sampleDuration", "activity"],
 				"Units": ["s", "s", "kBq/ml"],
