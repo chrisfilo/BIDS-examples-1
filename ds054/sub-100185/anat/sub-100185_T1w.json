@@ -1,0 +1,53 @@
+{
+    "Rows": 256, 
+    "InversionTime": 1.0, 
+    "InplanePhaseEncodingDirection": "ROW", 
+    "SeriesTime": "102035.540000", 
+    "NumberOfAverages": 1.0, 
+    "ManufacturersModelName": "Skyra", 
+    "PATModeText": "p2", 
+    "PhaseEncodingDirection": "i-", 
+    "BandwidthPerPixelPhaseEncode": null, 
+    "NumberOfEchoes": null, 
+    "Columns": 256, 
+    "PixelSpacing": [
+        0.80078125, 
+        0.80078125
+    ], 
+    "RepetitionTime": 2.4, 
+    "SeriesDate": "18740621", 
+    "PercentPhaseFieldOfView": 100.0, 
+    "MagneticFieldStrength": 3.0, 
+    "MRAcquisitionType": "3D", 
+    "SliceThickness": 0.80000001192093, 
+    "StudyTime": "095910.879000", 
+    "RealDwellTime": 7200, 
+    "EchoTrainLength": 1, 
+    "PixelBandwidth": 270.0, 
+    "ScanningSequence": [
+        "GR", 
+        "IR"
+    ], 
+    "Manufacturer": "SIEMENS", 
+    "FlipAngle": 8.0, 
+    "SeriesDescription": "T1w_MPR1_PMC", 
+    "SequenceName": "*tfl3d1_16ns", 
+    "SeriesNumber": 5, 
+    "SpacingBetweenSlices": null, 
+    "ImageType": "ORIGINAL/PRIMARY/M/ND/NORM", 
+    "EchoTime": 0.00194, 
+    "SequenceVariant": [
+        "SK", 
+        "SP", 
+        "MP", 
+        "OSP"
+    ], 
+    "SliceTiming": null, 
+    "ImagingFrequency": 123.224174, 
+    "StudyID": "1", 
+    "ScanOptions": [
+        "IR", 
+        "WE"
+    ], 
+    "NumberOfPhaseEncodingSteps": 282
+}

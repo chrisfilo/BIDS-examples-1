@@ -1,0 +1,40 @@
+{
+   "Columns": 256, 
+   "EchoTime": 0.00194, 
+   "EchoTrainLength": 1, 
+   "FlipAngle": 8.0, 
+   "ImageType": "ORIGINAL/PRIMARY/M/ND/NORM", 
+   "InplanePhaseEncodingDirection": "ROW", 
+   "InversionTime": 1.0, 
+   "MRAcquisitionType": "3D", 
+   "MagneticFieldStrength": 3.0, 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Skyra", 
+   "NumberOfAverages": 1.0, 
+   "NumberOfPhaseEncodingSteps": 282, 
+   "PATModeText": "p2", 
+   "PercentPhaseFieldOfView": 100.0, 
+   "PhaseEncodingDirection": "i-", 
+   "PixelBandwidth": 270.0, 
+   "RealDwellTime": 7200, 
+   "RepetitionTime": 2.4, 
+   "Rows": 256, 
+   "ScanOptions": [
+      "IR", 
+      "WE"
+   ], 
+   "ScanningSequence": [
+      "GR", 
+      "IR"
+   ], 
+   "SequenceName": "*tfl3d1_16ns", 
+   "SequenceVariant": [
+      "SK", 
+      "SP", 
+      "MP", 
+      "OSP"
+   ], 
+   "SeriesDescription": "T1w_MPR1_PMC", 
+   "SliceThickness": 0.80000001192093, 
+   "StudyID": "1"
+}

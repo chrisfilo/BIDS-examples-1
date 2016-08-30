@@ -1,0 +1,30 @@
+{
+   "EchoTime1": 0.00451,
+    "EchoTime2": 0.00697,
+   "EchoTrainLength": 0, 
+   "FlipAngle": 5.0, 
+   "InplanePhaseEncodingDirection": "ROW", 
+   "InversionTime": 0.0, 
+   "MRAcquisitionType": "2D", 
+   "MagneticFieldStrength": 3.0, 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Skyra", 
+   "NumberOfAverages": 1.0, 
+   "PhaseEncodingDirection": "i-", 
+   "PixelBandwidth": 600.0, 
+   "PixelSpacing": [
+      2.3958332538605, 
+      2.3958332538605
+   ], 
+   "RealDwellTime": 8700, 
+   "RepetitionTime": 0.54, 
+   "Rows": 96, 
+   "ScanOptions": "", 
+   "ScanningSequence": "GR", 
+   "SequenceName": "*fm2d2r", 
+   "SequenceVariant": "SP", 
+   "SeriesDescription": "fieldmap", 
+   "SliceThickness": 2.4000000953674, 
+   "SpacingBetweenSlices": 2.4, 
+   "StudyID": "1"
+}

@@ -1,0 +1,31 @@
+{
+   "BandwidthPerPixelPhaseEncode": 33.602, 
+   "Columns": 768, 
+   "EchoTime": 0.03, 
+   "EchoTrainLength": 47, 
+   "FlipAngle": 63.0, 
+   "ImageType": "ORIGINAL/PRIMARY/M/ND/NORM/MOSAIC", 
+   "InversionTime": 0.0, 
+   "MRAcquisitionType": "2D", 
+   "MagneticFieldStrength": 3.0, 
+   "Manufacturer": "SIEMENS", 
+   "ManufacturersModelName": "Skyra", 
+   "NumberOfAverages": 1.0, 
+   "NumberOfPhaseEncodingSteps": 95, 
+   "PATModeText": "p2", 
+   "PercentPhaseFieldOfView": 100.0, 
+   "PixelBandwidth": 2005.0, 
+   "PixelSpacing": [
+      2.3958332538605, 
+      2.3958332538605
+   ], 
+   "RealDwellTime": 2600, 
+   "Rows": 768, 
+   "ScanOptions": "FS", 
+   "ScanningSequence": "EP", 
+   "SequenceName": "epfid2d1_96", 
+   "SequenceVariant": "SK", 
+   "SliceThickness": 2.4000000953674, 
+   "SpacingBetweenSlices": 2.3999999878355, 
+   "StudyID": "1"
+}
